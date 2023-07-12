@@ -146,8 +146,16 @@ body.modo-escuro{
 }
 
 .texto {
-    max-height: 80px;
-    overflow-y: scroll;
-    font-size: 14px;
-    padding-right: 10px;
+   	max-height: 80px;
+	overflow-y: scroll;
+    	font-size: 14px;
+    	padding-right: 10px;
+}
+
+.rodape {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+    	padding: 20px;
+    	font-weight: bold;
 }
